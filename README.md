@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raghav, a student at IIT Ropar
+- 👋 Hi, I’m Raghav, an Engineering student at IIT Ropar
 - 👀 I’m interested in Competitive Programming & Data Science 
 - 🌱 I’m currently learning DSA in C++ 
 - 💞️ I’m looking to collaborate on CP and Data Science Projects 
