@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @raghav8218
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python and R
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Raghav, a student at IIT Ropar
+- 👀 I’m interested in Competitive Programming & Data Science 
+- 🌱 I’m currently learning DSA in C++ 
+- 💞️ I’m looking to collaborate on CP and Data Science Projects 
+- 📫 How to reach me raghavsharma8218@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
