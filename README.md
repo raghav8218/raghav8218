@@ -10,12 +10,12 @@
   Building production-grade autonomous agent workflows (LangGraph, MCP), zero-disk in-memory streaming engines, and low-latency developer infrastructure.
 </p>
 
-<!-- Quick Social Links & Badges -->
-[![Website](https://img.shields.io/badge/Website-raghavexe.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://raghavexe.vercel.app/)
+<!-- Quick Links & Badges -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://raghavexe.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-raghav8218-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raghav8218)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raghav--sharma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-sharma-6a7596288/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Specialist_(1569)-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/raghav8218)
 [![LeetCode](https://img.shields.io/badge/LeetCode-700+_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/raghav8218)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-sharma-6a7596288/)
 [![Email](https://img.shields.io/badge/Email-raghavsharma8218@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:raghavsharma8218@gmail.com)
 
 </div>
@@ -41,7 +41,7 @@
 | **AI & Agentic Systems** | `LangGraph` `LangChain` `LLMs` `Autonomous Agents` `Model Context Protocol (MCP)` `RAG Pipelines` `ChromaDB` `Sentence Transformers` |
 | **Web & Frameworks** | `FastAPI` `React` `Node.js` `Express.js` `Vite` `Streamlit` `D3.js` `REST APIs` `Server-Sent Events (SSE)` |
 | **Databases & Caching** | `SQLite (WAL mode)` `PostgreSQL` `MongoDB` `pgvector` |
-| **DevOps & Tooling** | `Git` `GitHub Actions (CI/CD)` `Docker` `Linux / SSH` `Socket IPC` `Vercel` `Render` `Tree-Sitter` |
+| **DevOps & Tooling** | `Git` `GitHub Actions (CI/CD)` `Docker` `Linux / SSH` `Socket IPC` `Vercel` `Render` |
 | **Hardware & EDA** | `Cadence Virtuoso` `Calibre DRC/LVS/PEX` `SPICE Simulation` `Arduino` `ESP32` `Digital Systems` |
 
 </div>
@@ -74,7 +74,7 @@
 > **Multi-node agentic workflow for automated document ingestion, verification, and triage**  
 > [![Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit)](https://vouchr.streamlit.app/) [![GitHub](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/raghav8218/invoice-agent)
 
-- **6-Node State Machine**: Built a stateful directed graph in **LangGraph** (`Extract` $\to$ `Validate` $\to$ `Duplicate Check` $\to$ `Save` $\to$ `Verify` $\to$ `Review`).
+- **6-Node State Machine**: Built a stateful directed graph in **LangGraph** (`Extract` $\to$ `Validate` $\to$ `Deduplicate` $\to$ `Save` $\to$ `Verify` $\to$ `Review`).
 - **Multimodal Visual Extraction**: Leverages multimodal LLM vision to extract invoice data immune to OCR/PDF font rendering corruptions, backed by strict decimal currency and date validations.
 - **Automated Pipeline**: Integrates Gmail API ingestion, idempotent SQLite storage with duplicate detection, and independent row verification ensuring **100% data consistency**.
 
@@ -92,9 +92,9 @@
 
 ## Competitive Programming
 
-- **Codeforces**: [raghav8218](https://codeforces.com/profile/raghav8218) — **Specialist** (Max Rating: **1569**)
+- **Codeforces**: [Profile](https://codeforces.com/profile/raghav8218) — **Specialist** (Max Rating: **1569**)
+- **LeetCode**: [Profile](https://leetcode.com/u/raghav8218) — **700+ problems solved** across platforms
 - **Global Standing**: Global Rank **601** in Codeforces Round 1132 (Div. 2)
-- **Problem Solving**: **700+ algorithmic problems solved** across Codeforces and LeetCode
 
 ---
 
@@ -120,5 +120,10 @@
 ---
 
 <div align="center">
-  <b>Website:</b> <a href="https://raghavexe.vercel.app/">raghavexe.vercel.app</a> &nbsp;|&nbsp; <b>Contact:</b> <a href="mailto:raghavsharma8218@gmail.com">raghavsharma8218@gmail.com</a>
+  <a href="https://raghavexe.vercel.app/">Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://github.com/raghav8218">GitHub</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/raghav-sharma-6a7596288/">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://codeforces.com/profile/raghav8218">Codeforces</a> &nbsp;|&nbsp;
+  <a href="https://leetcode.com/u/raghav8218">LeetCode</a> &nbsp;|&nbsp;
+  <a href="mailto:raghavsharma8218@gmail.com">Email</a>
 </div>
