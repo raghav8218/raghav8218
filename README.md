@@ -15,7 +15,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-raghav8218-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raghav8218)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-raghav--sharma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-sharma-6a7596288/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Specialist_(1569)-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/raghav8218)
-[![LeetCode](https://img.shields.io/badge/LeetCode-700+_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/raghav8218)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/raghav8218)
 [![Email](https://img.shields.io/badge/Email-raghavsharma8218@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:raghavsharma8218@gmail.com)
 
 </div>
